@@ -60,11 +60,4 @@
   
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leeeydia&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeeydia&layout=compact&theme=radical" />
-</p>
