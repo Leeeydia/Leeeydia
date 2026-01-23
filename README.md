@@ -1,24 +1,26 @@
 <h2 align="center">✨ Welcome to Leeeydia's GitHub ✨</h2>
+
 <p align="center">
   🌱 Frontend Developer <br />
+  <sub>with Backend fundamentals (Java · Spring)</sub>
 </p>
 
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Leeeydia&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Leeeydia"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/Leeeydia"
+    width="600"
+    height="300"
+  />
 </a>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **TypeScript, React, Next.js**
+- 🌱 Frontend developer focused on **React, TypeScript, Next.js**
+- 🧩 Currently learning **Backend fundamentals with Java & Spring**
 - 💬 Ask me about **React, Tailwind CSS, Supabase**
-- 📫 How to reach me: **leeeydia@gmail.com**
+- 📫 Contact: **leeeydia@gmail.com**
 
 ---
 
@@ -37,9 +39,27 @@
 
 #### 🗄 Backend / DB / Auth
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-2F2625?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+</p>
+
+---
 
 #### 🔧 Development Tools
 <p>
@@ -56,8 +76,4 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  
-  
 </p>
-
-
