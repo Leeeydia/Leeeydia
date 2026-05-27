@@ -1,8 +1,7 @@
 <h2 align="center">✨ Welcome to Leeeydia's GitHub ✨</h2>
 
 <p align="center">
-  🌱 Frontend Developer <br />
-  <sub>with Backend fundamentals (Java · Spring)</sub>
+  🌱 Full-stack developer <br />
 </p>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Leeeydia&utm_content=farm">
